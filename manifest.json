@@ -1,0 +1,12 @@
+{
+  "runtime":{
+    "majorVersion": "8"
+  },
+  "command": "java -jar cloud-sol-helloworld-0.0.2-SNAPSHOT.jar",
+  "release": {
+    "build": "20170114Build",
+    "commit": "commitString",
+    "version": "20170114Version"
+  },
+  "notes": "REST app for testing"
+}
